@@ -13,6 +13,10 @@
     - parse resp as json and console.log resp
     - console.log document.cookie
     - Note the cookies that are marked as HTTP only 
+
+## Sesssions
+Review sesssions: 
+
 4. Use session to create encrypted current user_id
     - generate app.secret_key -> Cheatsheet: https://furry-shrimp-4f0.notion.site/Cookies-and-Sessions-Cheatsheet-2e4cbcd1c8ee4d71b8b0da395ebb3fe4?pvs=4
     - create a session and store a user_id=1
