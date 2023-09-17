@@ -1,5 +1,7 @@
 # acc-flask-cookie-sessions-demo
 
+Cookies and Sessions cheatsheet: [Link](https://furry-shrimp-4f0.notion.site/Cookies-and-Sessions-Cheatsheet-2e4cbcd1c8ee4d71b8b0da395ebb3fe4?pvs=4)
+
 ### Deliverables
 1. Create a GET '/cookies' custom route
 2. In route function:
