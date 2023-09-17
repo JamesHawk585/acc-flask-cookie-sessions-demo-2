@@ -15,7 +15,7 @@
     - Note the cookies that are marked as HTTP only 
 
 ## Sesssions
-Review sesssions: 
+Review sesssions: [Link to slides](https://docs.google.com/presentation/d/1n50KET2YQJJoXdJQUcGMIdeyEYcqbKda3SU_kZeWTLU/edit?usp=sharing)
 
 4. Use session to create encrypted current user_id
     - generate app.secret_key -> Cheatsheet: https://furry-shrimp-4f0.notion.site/Cookies-and-Sessions-Cheatsheet-2e4cbcd1c8ee4d71b8b0da395ebb3fe4?pvs=4

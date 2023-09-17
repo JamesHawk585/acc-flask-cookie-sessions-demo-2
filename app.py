@@ -19,7 +19,8 @@ def index():
         # - set a cookie for hello=world
         # - set another for foo=bar
         # - set another for current_user=codetombomb
-        # - on last cookie, set path, expiration date, max age, httpOnly    
+        # - on last cookie, set path, expiration date, max age, httpOnly    '
+        # - use set_trace to access specific cookies on the request cookie object
     # 3. In the client:
         # - Use useEffect to send a GET request to '/cookies'
         # - parse resp as json and console.log resp
